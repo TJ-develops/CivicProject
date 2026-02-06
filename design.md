@@ -285,29 +285,6 @@ User speaks → Speech-to-Text → AI Understanding
 
 ---
 
-## 9. Trust & Safety
-
-### 9.1 Building Trust
-
-**Source Attribution:**
-```
-ℹ️ Source: Maharashtra Govt Portal
-   Last verified: Feb 1, 2026
-   🔗 mahadbt.maharashtra.gov.in
-```
-
-**Disclaimers:**
-```
-⚠️ This info is for guidance only.
-   Verify with official sources.
-```
-
-**Partnership Logos:**
-```
-Supported by:
-[Digital India] [State Govt] [NGO Partners]
-```
-
 ### 9.2 Privacy Protection
 
 **What we collect:**
