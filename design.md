@@ -1,6 +1,8 @@
 # Design Document
 ## Public Information Portal with Voice-First AI Assistant
 
+NOTE: This document represents a preliminary version of the project specifications. The requirements and design are subject to change as the idea is further refined, validated, and developed.
+
 **Project Name:** Civic Information Portal (Working Title)  
 **Submission Date:** February 2026  
 **Document Purpose:** Visual design, user experience, and system overview for idea submission
@@ -73,31 +75,11 @@ Our platform makes this vision real by combining:
 
 ---
 
-## 4. Visual Design
+## 4. Page Layouts
 
-### 4.1 Color Palette
+This represents a preliminary version of the project specifications. The requirements and design are subject to change as the idea is further refined, validated, and developed.
 
-**Primary Colors:**
-- 🔵 **Trust Blue** (#1E40AF) - Navigation, government badge
-- 🟢 **Success Green** (#059669) - Eligible indicators, active schemes
-- 🟠 **Action Orange** (#EA580C) - "Apply Now" buttons, voice button
-
-**Why These Colors:**
-- High contrast (readable in bright sunlight)
-- Culturally appropriate
-- Accessible (WCAG AAA compliant)
-
-### 4.2 Typography
-
-- **Font:** Noto Sans (supports all Indian languages)
-- **Sizes:** Large headings (24px mobile), readable body (16px)
-- **Bilingual:** Primary language large, secondary smaller
-
----
-
-## 5. Page Layouts
-
-### 5.1 Homepage (Mobile)
+### 4.1 Homepage (Mobile)
 
 ```
 ┌─────────────────────────────────┐
@@ -132,7 +114,7 @@ Our platform makes this vision real by combining:
 - Visual icons for schemes
 - Minimal text
 
-### 5.2 Scheme Detail Page
+### 4.2 Scheme Detail Page
 
 ```
 ┌─────────────────────────────────┐
@@ -172,7 +154,7 @@ Our platform makes this vision real by combining:
 - Numbered steps
 - Multiple CTAs
 
-### 5.3 AI Voice Interface
+### 4.3 AI Voice Interface
 
 ```
 ┌─────────────────────────────────┐
