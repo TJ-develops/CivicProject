@@ -24,29 +24,24 @@ Our platform makes this vision real by combining:
 
 **1. Mobile-First, Voice-First**
 - Most users will access via smartphones
-- Voice should be the primary interaction method (not typing)
-- Large, tap-friendly buttons
+- Voice should be a primary interaction method (not typing)
+- tap-friendly buttons
 - Minimal text input required
 
-**2. Accessibility for All**
-- Works on basic smartphones (₹5,000 Android phones)
-- Works on slow internet (2G/3G)
-- Works for users with limited literacy
-- Works for users with disabilities (screen readers, high contrast)
 
-**3. Local Language, Local Context**
+**2. Local Language, Local Context**
 - Hindi and English from day one
 - Regional languages (Tamil, Telugu, Marathi, etc.) added progressively
 - All content available in user's preferred language
 - Cultural sensitivity in design and messaging
 
-**4. Trust and Transparency**
+**3. Trust and Transparency**
 - Clear sourcing ("According to official Maharashtra government website...")
 - Disclaimers visible ("Please verify with official sources")
 - No hidden fees, no ads, no commercial motives
 - Government partnership logos displayed
 
-**5. Progressive Enhancement**
+**4. Progressive Enhancement**
 - Website works perfectly without AI (basic information access)
 - AI enhances the experience but isn't required
 - Graceful degradation when internet is slow
