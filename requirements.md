@@ -377,51 +377,6 @@ Voice-first AI that sits on top of the website to make it truly accessible.
 
 ---
 
-## 8. Resource Requirements
-
-### 8.1 Team Requirements
-
-**Phase 1 (Pilot):**
-- **Product Manager** (1 person, full-time)
-- **Software Developers** (2-3 people, full-time)
-- **UI/UX Designer** (1 person, part-time)
-- **Content Researchers** (2-3 people, full-time) - to populate scheme database
-- **Translators** (2 people, part-time) - for Hindi translations
-
-**Phase 2 & 3 (Scale):**
-- Add 2-3 more developers
-- Add 4-6 more content researchers (state-specific)
-- Add regional language translators
-- Add DevOps engineer for infrastructure
-- Add community manager for user support
-
-### 8.2 Budget Estimate
-
-**Phase 1 (3 months):**
-- Infrastructure & AI costs: $8,000/month × 3 = $24,000
-- Team salaries: ~$30,000 (if India-based team)
-- **Total:** ~$54,000
-
-**Phase 2 (6 months):**
-- Infrastructure & AI: $15,000/month × 6 = $90,000
-- Team salaries: ~$75,000
-- **Total:** ~$165,000
-
-**Phase 3 (24 months):**
-- Infrastructure & AI: $30,000/month × 24 = $720,000
-- Team salaries: ~$400,000
-- **Total:** ~$1,120,000
-
-**Grand Total (30 months):** ~$1.34 million
-
-**Potential Funding Sources:**
-- Government grants (Digital India initiatives)
-- CSR funding from corporations
-- Foundation grants (Gates Foundation, Omidyar Network, etc.)
-- International development organizations (World Bank, USAID, etc.)
-
----
-
 ## 9. Risks & Mitigation
 
 ### 9.1 Key Risks
@@ -456,12 +411,6 @@ Voice-first AI that sits on top of the website to make it truly accessible.
 
 **Story 3: Elderly Gets Pension**
 > "Ramabai, 68, never knew about the old-age pension scheme. An NGO worker showed her our platform. Within a month, she started receiving ₹1,500/month pension, giving her financial independence."
-
-**Projected Impact (Phase 3, Year 2):**
-- 5 million users reach
-- 1 million people discover schemes they qualify for
-- 300,000 successful applications initiated
-- ₹500 crore in benefits accessed by citizens who otherwise wouldn't know about them
 
 ---
 
@@ -524,21 +473,8 @@ Voice-first AI that sits on top of the website to make it truly accessible.
    - Test AI voice recognition in Hindi/English
    - Verify infrastructure costs
 
-4. **Team building**
-   - Recruit core team (2 developers, 1 PM, 2 content researchers)
-   - Onboard advisors with government/civic tech experience
 
-### 12.2 Funding Ask
 
-**Seeking:** $150,000 for Phase 1 + Phase 2 (9 months)
-
-**Use of Funds:**
-- Development: $50,000 (team costs)
-- Infrastructure & AI: $70,000 (cloud hosting, AI APIs)
-- Content creation: $20,000 (researchers, translators)
-- User testing & outreach: $10,000
-
-**Expected Outcome:** Validated platform in 10 states, 500,000 users, clear path to national scale.
 
 ---
 
