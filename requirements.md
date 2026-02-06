@@ -116,71 +116,37 @@ Voice-first AI that sits on top of the website to make it truly accessible.
 - Remembers context within conversation
 - Suggests next steps
 
-#### For Government Administrators:
-
-**Content Management System:**
-- Easy-to-use interface to add/edit schemes
-- Upload schemes via simple form (no coding needed)
-- Support for multiple languages side-by-side
-- Bulk upload via CSV/Excel
-- Preview before publishing
-- Track who made changes and when
-
-**Analytics Dashboard:**
-- See which schemes are most viewed
-- Track search queries (to improve content)
-- Monitor AI assistant performance
-- State-wise usage statistics
-- User feedback and ratings
-
 ---
 
 ## 3. Success Metrics & Goals
 
-### 3.1 Phase 1 Goals (Pilot - 3 Months)
+### 3.1 Phase 1 Goals 
 
 **Scope:**
-- Launch in 2 pilot states (e.g., Maharashtra, Tamil Nadu)
+- Launch in 2 pilot states 
 - 100+ schemes per state populated
 - AI assistant in Hindi + English only
 - Basic website with search functionality
 
-**Success Metrics:**
-- **Reach:** 100,000 unique users
-- **Engagement:** 60% of users find at least one relevant scheme
-- **Satisfaction:** 4+ star average rating
-- **Conversion:** 30% of users who find a scheme click "Apply"
-- **Performance:** Website loads in <3 seconds on 3G networks
-- **AI Accuracy:** Voice recognition ≥85% accurate for Hindi/English
 
-### 3.2 Phase 2 Goals (Regional Expansion - 6 Months)
+### 3.2 Phase 2 Goals 
 
 **Scope:**
-- Expand to 8-10 states
-- Add 4-6 regional languages (Tamil, Telugu, Marathi, Bengali, Gujarati, Kannada)
+- Expand to multiple states
+- Add regional languages 
 - Enhanced AI features (better eligibility matching)
 - Mobile app for Android
 
-**Success Metrics:**
-- **Reach:** 500,000 unique users
-- **Geographic spread:** Users from at least 10 states
-- **Language diversity:** 40%+ users interact in regional languages
-- **Repeat usage:** 25% of users return within 30 days
 
-### 3.3 Phase 3 Goals (National Scale - 12 Months)
+### 3.3 Phase 3 Goals 
 
 **Scope:**
-- All 28 states + 8 Union Territories
-- All major Indian languages (10+ languages)
+- All 28 states 8 Union Territories
+- All major Indian languages 
 - WhatsApp integration (reach users where they are)
 - IVR system (phone-based voice interface for those without internet)
 - Application status tracking
 
-**Success Metrics:**
-- **Reach:** 5 million unique users
-- **Impact:** 1 million applications initiated through the platform
-- **Government partnerships:** Data-sharing agreements with 20+ state governments
-- **Sustainability:** Self-funding model through government grants or CSR
 
 ---
 
