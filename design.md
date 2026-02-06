@@ -1,4 +1,4 @@
-# Design Vision Document
+# Design Document
 ## Public Information Portal with Voice-First AI Assistant
 
 **Project Name:** Civic Information Portal (Working Title)  
