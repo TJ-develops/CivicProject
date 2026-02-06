@@ -1,9 +1,11 @@
 # Project Requirements Document
 ## Public Information Portal with Voice-First AI Assistant
 
+NOTE: This document represents a preliminary version of the project specifications.
+The requirements and design are subject to change as the idea is further refined, validated, and developed.
+
 **Project Name:** Civic Information Portal (Working Title)  
 **Submission Date:** February 2026  
-**Team/Organization:** [Your Team Name]
 
 ---
 
